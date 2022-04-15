@@ -1,5 +1,7 @@
+# TC: O(N)  Here N = len  of the input string
+# MC: O(1) 
 class Solution:
-    def myAtoi(self, s: str) -> int:
+    def myAtoi(self, s):
         if len(s) == 0:
             return 0
         
