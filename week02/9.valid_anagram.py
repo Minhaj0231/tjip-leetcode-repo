@@ -1,4 +1,4 @@
-# TC: O(N*MlogM)  N=lenght of the array   M=maximax size  of the strings in the array  
+# TC: O(N*MlogM) Here N=lenght of the array   M=maximax size  of the strings in the array  
 # MC: O(N) 
 class Solution:
     def isAnagram(self, s, t):

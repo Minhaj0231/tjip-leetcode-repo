@@ -1,3 +1,5 @@
+# TC: O(N)  Here N = len  of the input string
+# MC: O(1) 
 class Solution:
     def longestCommonPrefix(self, strs):
         

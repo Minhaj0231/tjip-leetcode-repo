@@ -1,3 +1,5 @@
+# TC: O(n*MLogM) here n is the  len of the input array and M == maximum size of the strings.
+# MC: O(n) 
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
         
@@ -20,4 +22,5 @@ class Solution:
         ans = "".join(nums) 
         
         return ans
-                      
+
+      

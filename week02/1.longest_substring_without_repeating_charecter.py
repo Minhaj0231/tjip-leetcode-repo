@@ -1,3 +1,5 @@
+# TC: O(N) here n is the  len of the input string
+# MC: O(N) 
 class Solution:
     def lengthOfLongestSubstring(self, s):
         
