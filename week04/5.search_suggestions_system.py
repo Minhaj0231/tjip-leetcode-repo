@@ -1,5 +1,5 @@
 # TC: O(N)  Here N = len  of the input string
-# MC: O(1) 
+# MC: O(N) 
 class TreeNode:
     def __init__(self):
         self.word = ""
