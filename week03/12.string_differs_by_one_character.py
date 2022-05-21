@@ -1,3 +1,6 @@
+# TC: O(N)  Here N = len  of the    stirngs  in the input array
+# MC: O(N*M) Here N = len  of the stirngs  in the input array and M = size of the input array 
+
 class Solution:
     def stringDiffer(self,  strings):
         for  i in range (len(strings[0])):
