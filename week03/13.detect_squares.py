@@ -1,3 +1,6 @@
+# TC: O(N)  Here N = len  of the all points
+# MC: O(N)
+
 class DetectSquares:
 
     def __init__(self):
